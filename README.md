@@ -1,2 +1,0 @@
-# Depot
-Dépôt du projet
